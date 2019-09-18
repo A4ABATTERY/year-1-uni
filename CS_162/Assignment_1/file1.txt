@@ -1,0 +1,43 @@
+writing to file...
+
+
+Printing states in a sorted order
+Oregon  ||  South_Carolina  ||  
+
+Printing counties in sorted order for Oregon
+AtestA  ||  Benton  ||  Lane  ||  
+
+Printing counties in sorted order for South_Carolina
+Anderson  ||  Pickens  ||  
+
+South_Carolina has the largest population at 1001000
+
+States in order of largest population
+South_Carolina at 1001000  ||  Oregon at 1000000  ||  
+
+For Oregon
+AtestA has the largest population at 93000
+
+Counties in order of largest population
+AtestA at 93000  ||  Lane at 80000  ||  Benton at 53000  ||  
+
+For South_Carolina
+Anderson has the largest population at 80000
+
+Counties in order of largest population
+Anderson at 80000  ||  Pickens at 50000  ||  
+
+For Oregon
+Average house hold cost for state = 233333
+
+
+Average income of counties above 10
+Benton 100000  ||  AtestA 200000  ||  Lane 50000  ||  
+
+For South_Carolina
+Average house hold cost for state = 50000
+
+
+Average income of counties above 10
+Anderson 100000  ||  Pickens 50000  ||  
+
