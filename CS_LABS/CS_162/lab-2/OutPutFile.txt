@@ -1,0 +1,23 @@
+Sorted by ID number:
+200922015 Leslie Knope Public_and_Environmental_Affairs
+200822013 Olivia Dunham Criminal_Justice
+200722013 Walter Bishop General_Sciences
+199922007 C.J. Cregg Political_Science
+199922006 Toby Ziegler Communications
+199922004 Sam Seaborn Law
+199822007 Josh Lyman Law
+
+
+Sorted by ID last name:
+Bishop Walter ] General_Sciences
+Cregg C.J. W Political_Science
+Dunham Olivia ý Criminal_Justice
+Knope Leslie Ÿ Public_and_Environmental_Affairs
+Lyman Josh · Law
+Seaborn Sam T Law
+Ziegler Toby V Communications
+
+
+
+
+There are 7 unique majors
